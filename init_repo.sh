@@ -1,4 +1,7 @@
 
+# use conda list to create a requirements.txt file
+conda list --export > requirements.txt
+
 # init a new git repo in the current directory and call it remap
 git init
 
@@ -10,5 +13,3 @@ git remote add origin https://github.com/mgcooper/remap
 
 # push to it
 git push -u origin HEAD
-
-
