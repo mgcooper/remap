@@ -30,10 +30,5 @@ Tips for Sarah:
 - rounding
 - ice mask edge effects
 
-mar
-hirham
-racmo
-merra
-
 ncclimo/ncremap
 remember to use -P elm option to avoid subgrid issues (need to follow up on this)
